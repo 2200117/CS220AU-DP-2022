@@ -27,6 +27,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 
 
+- 2022-10-31: read about ecosystem collapse.
 - 2022-10-25: 2-hour class. tools on how to research.
 - 2022-10-24: worked on visitor/resident map and on temporary notes (about the videos) to make them permanent.
 - 2022-10-18: 2-hour class. created github account and set up folders to take notes.
@@ -36,5 +37,6 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-- literature review on digital identity & existential risk
+- explore literature on digital identity & existential risk
 - think about research question
+- choose an existential risk to work on
