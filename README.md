@@ -40,3 +40,4 @@ How to use this GitHub repository as a template for your submission, including h
 - explore literature on digital identity & existential risk
 - think about research question
 - choose an existential risk to work on
+- look for images/videos/audios to add to website
