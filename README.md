@@ -27,7 +27,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 
 
-- 2022-10-31: read about ecosystem collapse.
+- 2022-10-31: read about ecosystem collapse. went back to markdown section to better understand the language.
 - 2022-10-25: 2-hour class. tools on how to research.
 - 2022-10-24: worked on visitor/resident map and on temporary notes (about the videos) to make them permanent.
 - 2022-10-18: 2-hour class. created github account and set up folders to take notes.
