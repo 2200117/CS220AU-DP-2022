@@ -26,12 +26,14 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-- 2022-10-17 amended the repository to work with to be aligned with the focus on how the module is run in 2022 (e.g. regarding the theme)
-- 2022-10-10 based on the last year's portfolio template, I created a draft for a new template
+
+2022-10-24: worked on visitor/resident map and on temporary notes to make them permanent.
+2022-10-18: 2-hour lab. created github account and set up folders to take notes.
+
 
 
 <br>
 
 ## TODO
-### in week 3
-- help students fork the repo and understand its code structure, etc. 
+literature review digital identity & existential risk
+think about research question
