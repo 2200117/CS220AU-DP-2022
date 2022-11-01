@@ -26,7 +26,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-- 2022-11-01: 2-hour class. discussion with Cloe and Jaume about their progress and mine. it was useful to better understand where i'm going, and to brainstorm about what i'm going to do next. 
+- 2022-11-01: 2-hour class. discussions with Cloe and Jaume about their progress and mine. it was useful to better understand where i'm going, and to brainstorm about what i'm going to do next. 
 - 2022-10-31: read about ecosystem collapse. went back to markdown section to better understand the language.
 - 2022-10-25: 2-hour class. tools on how to research.
 - 2022-10-24: worked on visitor/resident map and on temporary notes (about the videos) to make them permanent.
