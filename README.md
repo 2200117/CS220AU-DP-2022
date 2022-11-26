@@ -2,7 +2,7 @@
 
 ## Log
 
-- 2022-11-19: kept researching on my subject to get a better understanding of it. I wrote down the info I found in my private notes and I started working on a draft for the text part of my website.
+- 2022-11-19: kept doing reasearch on my subject to get a better understanding of it. I wrote down the info I found in my private notes and I started working on a draft for the text part of my website.
 - 2022-11-15: 2-hour class. discussions with the class about our progress.
 - 2022-11-08: 2-hour class. information and tips on content production.
 - 2022-11-06: clarified to ideas I previously had about my project and decided to work on data storage and how it affects the environment. I then came up with a list of key words to organise my research.
