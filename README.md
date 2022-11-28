@@ -2,6 +2,7 @@
 
 ## Log
 
+- 2022-11-28: continued writing the text. 
 - 2022-11-26: continued writing the text. I also started adding figures, links and quotes to it. 
 - 2022-11-19: kept doing reasearch on my subject to get a better understanding of it. I wrote down the info I found in my private notes and I started working on a draft for the text part of my website.
 - 2022-11-15: 2-hour class. discussions with the class about our progress.
@@ -18,7 +19,8 @@
 <br>
 
 ## TODO
-- explore literature on digital identity & existential risk
+- keep exploring literature on digital identity & existential risk
 - think about research question
 - look for images/videos/audios to add to website
-- start writing the text part of the website
+- keep writing the text part of the website
+- organise the website (titles, subtitles, order of the figures and paragraphs)
