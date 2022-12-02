@@ -2,6 +2,7 @@
 
 ## Log
 
+- 2022-12-02: continued writing the text.
 - 2022-11-28: continued writing the text. 
 - 2022-11-26: continued writing the text. I also started adding figures, links and quotes to it. 
 - 2022-11-19: kept doing reasearch on my subject to get a better understanding of it. I wrote down the info I found in my private notes and I started working on a draft for the text part of my website.
