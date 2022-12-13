@@ -2,6 +2,7 @@
 
 ## Log
 
+- 2022-12-13: Editing and revision of the text.
 - 2022-12-07: I continued writing the text and I added images to make the website more interesting.
 - 2022-12-02: I continued writing the text.
 - 2022-11-28: I continued writing the text. 
@@ -23,4 +24,4 @@
 ## TODO
 - keep writing the text part of the website
 - organise the website (titles, subtitles, images, videos, links)
-- peer review with Cloe
+- peer assessment with Cloe
