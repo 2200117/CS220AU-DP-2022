@@ -5,6 +5,7 @@
 - 2022-12-13: Editing and revision of the text.
 - 2022-12-07: I continued writing the text and I added images to make the website more interesting.
 - 2022-12-02: I continued writing the text.
+- 2022-11-29: 2-hour class. discussions about progress and idividual work on the website.
 - 2022-11-28: I continued writing the text. 
 - 2022-11-26: I continued writing the text. I also started adding figures, links and quotes to it. 
 - 2022-11-19: I kept doing reasearch on my subject to get a better understanding of it. I wrote down the info I found in my private notes and I started working on a draft for the text part of my website.
