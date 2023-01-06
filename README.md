@@ -2,6 +2,7 @@
 
 ## Log
 
+- 2023-01-06: I made the last changes to my text based on feedback I received and I corrected any grammar mistakes I could find.
 - 2022-12-13: Editing and revision of the text.
 - 2022-12-07: I continued writing the text and I added images to make the website more interesting.
 - 2022-12-02: I continued writing the text.
@@ -23,6 +24,4 @@
 <br>
 
 ## TODO
-- keep writing the text part of the website
-- organise the website (titles, subtitles, images, videos, links)
-- peer assessment with Cloe
+- Publish the website
