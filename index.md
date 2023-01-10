@@ -1,27 +1,67 @@
-# Title
+# Can Dark Data Darken Our Planet's Future?
+## A reflexion on how our use of the Internet, globally and individually, can have an impact on the environment
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
-## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
+##### Keywords : data storage, servers, dark data, data centres, human practices, digital society, environmental impact, sustainable computing, public cloud
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
 
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
+![nasa-Q1p7bh3SHj8-unsplash](https://user-images.githubusercontent.com/116093725/206260656-5339be13-3a87-4974-a476-f634bc3a3eb6.jpg)
+Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/fr/s/photos/data-centre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-![Plain VR map](assets/img/vr-map-plain.svg)
+It is almost 35 years ago that the leading medical journals of the world started publishing papers related to global warming and health, where they warned of [severe, even existential risks](https://www.mdpi.com/1660-4601/15/10/2266#B11-ijerph-15-02266). The definition of existential risk does not necessarily include the end of life on Earth as we know it, but it pertains to the progressive eradication of a high-level functioning civilization. Is it surprising that climate change can pose such an important threat? According to a [publication](https://www.thelancet.com/journals/lancet/article/PIIS0140-67360960935-1/fulltext) by the Lancet and University College London Institute for Global Health Commission, it deserves to be considered the "biggest global health threat of the 21st century". The following text will ponder how our actions, as a society whose use of the digital world keeps increasing, can impact this existential risk. More specifically, it will shed light on how our use of technology calls for never-ending data storage and how this has critical environmental consequences.
 
-Below you see an example of embedding an image that is found in another repository:
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
 
-## Embedding video players
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Dark data is all the data that is stored but never accessed or used. It is not unlike some objects that we keep in our houses, never pick up, but still never throw away. Because of its existence, dark data requires space on servers which, in turn, require physical space. Servers can be found in data centres, which can vary in size. Data centres can be found pretty much everywhere worldwide, with the US being the country with the most of them, and they require an enormous amount of energy to function properly. They obviously need electricity to run, and they also produce heat as a result of their work. 
 
-## More examples
 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+<a href="https://www.statista.com/statistics/1228433/data-centers-worldwide-by-country/" rel="nofollow"><img src="https://www.statista.com/graphic/1/1228433/data-centers-worldwide-by-country.jpg" alt="Statistic: Number of data centers worldwide in 2022, by country | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+
+
+
+To keep the temperature of data centres, and the machines inside, at a non-dangerous level, the need for some sort of cooling system becomes essential. Most data centres dedicate [40% of their electricity use](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) to it. You will see them use either air conditioning or evaporative cooling. The latter is [often preferred](https://www.nbcnews.com/tech/internet/drought-stricken-communities-push-back-against-data-centers-n1271344) since it depends on a lesser quantity of electricity and on the use of water, which is less costly. Though this choice obviously has consequences and Venkatesh Uddameri, professor and director of the Water Resources Center at Texas Tech University, expresses it well to [NBC News](https://www.nbcnews.com/tech/internet/drought-stricken-communities-push-back-against-data-centers-n1271344) :
+> “The typical data centre uses about 3-5 million gallons of water per day -- the same amount of water as a city of 30,000-50,000 people”.
+
+This colossal water consumption can greatly affect the communities in which the data centres are located by creating some sort of competition for the water, especially in areas where its quantity is already limited. Some companies choose to establish their data centres in such areas, in part because of the possibility to exploit wind and solar energy. It doesn't however diminish their need for water, and it becomes an additional pressure on the already-stressed sources.
+
+
+
+
+According to a [report from the International Energy Agency (IEA)](https://www.iea.org/reports/data-centres-and-data-transmission-networks) published in September 2022, "since 2010, the number of Internet users worldwide has more than doubled, while global internet traffic has expanded 20-fold". However, despite this considerable change in demand, the impact on data centres' energy consumption has remained limited, with the observed increase being less than proportional. This is largely due to advancements in IT hardware performances and cooling systems' efficiency. Moreover, a trend can be witnessed of companies favouring hyperscale, public data centres, that are shared by many, instead of smaller local ones. This has a somewhat positive impact because the former usually have the means, the funds and the access to newer technologies to set sustainable standards and actually achieve them. Still according to the IEA report, some of the major industry players (Apple, Google and Meta) have managed, in 2021, to offset the total electricity consumption of their data centres by buying or generating renewable electricity. Just to give an idea of the magnitude, Google's consumption reached 18.3 TWh and Meta's, 9.4 TWh. While the global trend is clear--the shift to public cloud data centres is considerable--some countries notice a growing demand for data centres services and have not yet made the change. This causes them to keep using smaller centres and to end up spending sizable amounts of electricity inefficiently. It was the case of [Ireland in 2021](https://www.iea.org/reports/data-centres-and-data-transmission-networks), where the electricity use resulting from data centres running became more than three times what it was in 2015, making up 14% of the nation's overall electricity consumption. The Irish-American company Accenture has provided a [statistic](https://www.accenture.com/us-en/insights/strategy/green-behind-cloud#:~:text=The%20green%20behind%20the%20cloud%20Sustainable%20cloud%20positions,cloud%2C%20but%20sustainability%20is%20becoming%20an%20imperative.%2044%25) that can act as an additional incentive to prompt these countries to make the switch : 
+
+> “Migrations to the public cloud can reduce CO2 emissions by 59 million tons per year which equates to taking 22 million cars off the road."
+
+
+You can see in more details, in the table below, data from 2015 and 2021 regarding Internet use and data centres. The same tendency of energy levels not rising in direct correlation to the surge in traffic volumes can in fact be observed.
+
+
+![Capture d’écran, le 2022-11-19 à 15 34 27](https://user-images.githubusercontent.com/116093725/204335094-7d980b2c-a4bb-4fa4-bfb6-7f6e1982f7bb.png)
+
+
+
+
+This can raise the question of how all this information can be relevant to individuals. Surely, if massive companies are taking sustainable actions to reduce the negative impacts of using the Internet, we can count on them to not let our planet's future deteriorate without needing to change anything in our day-to-day behaviour regarding the digital world. How can our little actions at home influence, in one way or the other, the current situation? An [article published in the American magazine The Atlantic](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/) highlights the impacts of a single person's online activities. The energy involved in using a computer, for example, is not limited to its need for electricity to function and is often underestimated by unaware users. In fact, while the average power necessary to charge a phone or a laptop is overall minimal, the power demand from what you do on these devices is what becomes significant. Simply accessing a website requires files to be broken down in order to travel from the servers, through the network, to your devices, where it can be reassembled and computed as information. (More information about the whole process and the Cloud in general can be found [in this video](https://www.youtube.com/watch?v=P6rqTlNdVFg&t=383s).) While every single activity online requires the services of data centres, some of them call for more hefty work like using a streaming platform, downloading an app or playing a video game online. Your own activities might entail a more substantial energy use than you would think, mainly because they rely on data centres being highly functional.
+
+
+![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/116093725/206261168-080081d6-2396-4c30-bfa2-33cce1e4a292.jpg)
+Photo by <a href="https://unsplash.com/es/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Ku</a> on <a href="https://unsplash.com/fr/s/photos/informatique?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
+The catch is that these data centres need to run 24 hours a day, 365 days per year. Of course, as a user of the Internet, you expect it to be accessible all the time without a second thought. You want to google the answer to your questions, update pictures on your Instagram page, shop on multiple websites and spend hours on Netflix. But even if you don't spend your whole days on the Internet, every single person has the same expectations. This is the reason why data centres never take a break. Whatever your need is, be it professional or personal, you want to access websites at any hour of the day, from almost anywhere in the world. For example, if the website you're shopping on is malfunctioning or slow, you will, only after a few seconds, exit it and go on another one. To prevent that from happening, companies will make sure that they have backups and plan B's to ensure their customers are continually satisfied. In fact, anthropologist and PhD candidate at MIT [Steven Gonzalez Monserrate explains](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) : 
+> "Data centres are designed to be hyper-redundant: If one system fails, another is ready to take its place at a moment’s notice, to prevent a disruption in user experiences. In some cases, only 6 to 12 percent of energy consumed is devoted to active computational processes. The remainder is allocated to cooling and maintaining chains upon chains of redundant fail-safes to prevent costly downtime."
+
+This is the main reason why data centres require such a colossal amount of energy: to meet the demands of companies who, in turn, want to please their customers. Besides, some companies are not even aware of the extent of data they collect on their website, that then becomes dark data since they don't really mean to work with it. And the energy required for the storage of this data is the same regardless of how much of it is exploited, whether it be a small portion or the majority of it. According to an [article published in the newspaper The Economist](https://sustainabledata.economist.com/#:~:text=1.5%C2%B0C%C2%A0ambitions.-,Sanjay,-Podder%2C%0Amanaging%20director), "between 70% and 90% of data that organisations collect is “dark data” that incurs unnecessary energy costs to transmit and store without being turned into insights and business opportunities." Not only does that emphasizes the urgency for companies to capture their data more assiduously, but it also means they need to be more considerate of the storage capacity they require from data centres to reach greater levels of infrastructure utilisation.
+
+You might be surprised to learn only one data centre runs on approximately the [same amount of electricity as 50,000 homes](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/). And when you consider an aggregate of them, it can reach such peaks that it has more of an impact on the environment than the airline industry does! It thus becomes imperative to find solutions to reduce this negative impact, or else our increasing use of the Internet will contribute to our demise. For example, the [IEA report](https://www.iea.org/reports/data-centres-and-data-transmission-networks) mentioned earlier suggests to make use of waste heat produced by data centres, to recycle it since it is being generated anyway. It could, among other things, help heat buildings in the area and, consequently, reduce the need for other more unsustainable sources. It is also mentioned that governments should do their part and propose policies to diminish the environmental impact of  data centres in their country. These policies could potentially include "network device energy efficiency standards, improving metrics and incentives for efficient network operations, and supporting international technology protocols". Additionally, even as an individual, actions can be taken. Something as mundane as changing your email habits can contribute to positive change. Watch the video below to learn more about it.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEsTWKsaKWc?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+It is time to take a critical look at your digital behaviour and maybe make some changes to contribute to a sustainable future, instead of the slippery slope going solely downhill that is climate change. As Gary Cook, senior IT analyst at Greenpeace [says](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/), "[the Internet] is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.” The worst case scenarios where the devastating changes to our climate slip out of our control "should be recognised as catastrophic", according to [epidemiologist Colin D. Butler](https://www.mdpi.com/1660-4601/15/10/2266#B11-ijerph-15-02266). This is why it becomes essential to consider how our own actions in regard to our digital identity, as individuals or as a society, are more or less linked to this existential risk.
 
 
