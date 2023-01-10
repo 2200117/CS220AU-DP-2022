@@ -2,6 +2,7 @@
 
 ## Log
 
+- 2023-01-10: self-assessment
 - 2023-01-06: I made the last changes to my text based on feedback I received and I used a grammar tool to correct any mistakes I could find.
 - 2022-12-13: Editing and revision of the text.
 - 2022-12-07: I continued writing the text and I added images to make the website more interesting.
