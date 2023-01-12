@@ -1,5 +1,5 @@
 # Can Dark Data Darken Our Planet's Future?
-## A reflexion on how our use of the Internet, globally and individually, can have an impact on the environment
+## A reflection on how our use of the Internet, globally and individually, can have an impact on the environment
 
 
 ##### Keywords : data storage, servers, dark data, data centres, human practices, digital society, environmental impact, sustainable computing, public cloud
@@ -58,9 +58,9 @@ This is the main reason why data centres require such a colossal amount of energ
 You might be surprised to learn only one data centre runs on approximately the [same amount of electricity as 50,000 homes](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/). And when you consider an aggregate of them, it can reach such peaks that it has more of an impact on the environment than the airline industry does! It thus becomes imperative to find solutions to reduce this negative impact, or else our increasing use of the Internet will contribute to our demise. For example, the [IEA report](https://www.iea.org/reports/data-centres-and-data-transmission-networks) mentioned earlier suggests to make use of waste heat produced by data centres, to recycle it since it is being generated anyway. It could, among other things, help heat buildings in the area and, consequently, reduce the need for other more unsustainable sources. It is also mentioned that governments should do their part and propose policies to diminish the environmental impact of  data centres in their country. These policies could potentially include "network device energy efficiency standards, improving metrics and incentives for efficient network operations, and supporting international technology protocols". Additionally, even as an individual, actions can be taken. Something as mundane as changing your email habits can contribute to positive change. Watch the video below to learn more about it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEsTWKsaKWc?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<br>
-
+\
+\
+\
 
 It is time to take a critical look at your digital behaviour and maybe make some changes to contribute to a sustainable future, instead of the slippery slope going solely downhill that is climate change. As Gary Cook, senior IT analyst at Greenpeace [says](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/), "[the Internet] is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.” The worst case scenarios where the devastating changes to our climate slip out of our control "should be recognised as catastrophic", according to [epidemiologist Colin D. Butler](https://www.mdpi.com/1660-4601/15/10/2266#B11-ijerph-15-02266). This is why it becomes essential to consider how our own actions in regard to our digital identity, as individuals or as a society, are more or less linked to this existential risk.
 
