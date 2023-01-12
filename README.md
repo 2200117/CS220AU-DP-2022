@@ -1,9 +1,16 @@
+![chris-obrist-9X1VJKrz1lU-unsplash](https://user-images.githubusercontent.com/116093725/212178483-fb6466d6-15c6-4c36-9b0a-6fa0027b0eaf.jpg)
+Photo de <a href="https://unsplash.com/@chrisobrist81?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Obrist</a> sur <a href="https://unsplash.com/fr/s/photos/%C3%A9lectronique?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
+
 ## Portfolio Overview
 
 An [article](https://www.euronews.com/green/2020/04/22/sending-one-less-email-a-day-could-help-reduce-the-carbon-footprint-of-your-inbox) about how keeping a large amount of emails in your inbox could be detrimental to the environment peaked my interest a few years ago. I still had it in mind when we were asked to consider how digital identities and existential risks might be related for a uni class. I went on a deep dive to try to find this particular article again and I ended up finding numerous articles and papers on the subject of how our use of technology has an impact on climate change. It was the perfect starting point of my project. During weeks, I researched and started writing a text on the topic. In parallel, I looked for a way to connect one of the many definitions of existential risk to my subject. To get a better understanding of the concept, I followed the Visitor/Resident method suggested by David White and made a V&R map of my own. 
 
 ![Capture d’écran, le 2022-11-19 à 16 08 40](https://user-images.githubusercontent.com/116093725/212174909-dff16e83-18fa-471a-9afb-d1b4128e00e2.png)
 
+I was then able to disscuss the topic with my classmates which allowed me to consider different angles and improve my work. In the end, I created a website based mainly on text which aims to make readers take a critical look at their own use of technology. I hope it will inform them, encourage reflection in them and, ultimately, lead them to make changes. Climate change is very much a global problem and every individual should take action, be it on a small scaler or on a much larger one. 
 
 
 
