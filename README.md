@@ -2,7 +2,8 @@
 
 ## Log
 
-- 2023-01-10: self-assessment
+- 2023-01-12: I did the overview of my portfolio in the README file.
+- 2023-01-10: self-assessment and peer-assessment
 - 2023-01-06: I made the last changes to my text based on feedback I received and I used a grammar tool to correct any mistakes I could find.
 - 2022-12-13: Editing and revision of the text.
 - 2022-12-07: I continued writing the text and I added images to make the website more interesting.
@@ -25,5 +26,4 @@
 <br>
 
 ## TODO
-- Publish the website
-- Overview of portfolio 
+- Deadline : 19th of Jan
