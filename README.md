@@ -10,7 +10,7 @@ An [article](https://www.euronews.com/green/2020/04/22/sending-one-less-email-a-
 
 ![Capture d’écran, le 2022-11-19 à 16 08 40](https://user-images.githubusercontent.com/116093725/212174909-dff16e83-18fa-471a-9afb-d1b4128e00e2.png)
 
-I was then able to disscuss the topic with my classmates which allowed me to consider different angles and improve my work. In the end, I created a website based mainly on text which aims to make readers take a critical look at their own use of technology. I hope it will inform them, encourage reflection in them and, ultimately, lead them to make changes. Climate change is very much a global problem and every individual should take action, be it on a small scaler or on a much larger one. 
+I was then able to disscuss the topic with my classmates which allowed me to consider different angles and improve my work. In the end, I created a website based mainly on text which aims to make readers take a critical look at their own use of technology. I hope it will inform them, encourage reflection and, ultimately, lead them to make changes. Climate change is very much a global problem and every individual should take action, be it on a small scaler or on a much larger one. 
 
 
 
