@@ -15,7 +15,7 @@
 - 2022-11-08: 2-hour class. information and tips on content production.
 - 2022-11-06: I clarified the ideas I previously had about my project and decided to work on data storage and how it affects the environment. I then came up with a list of key words to organise my research.
 - 2022-11-01: 2-hour class. discussions with Cloe and Jaume about their progress and mine. it was useful to better understand where i'm going, and to brainstorm about what i'm going to do next. 
-- 2022-10-31: I read about ecosystem collapse. I then went back to the markdown section to better understand the language and how to use it.
+- 2022-10-31: I read about ecosystem collapse and climate change. I then went back to the markdown section to better understand the language and how to use it.
 - 2022-10-25: 2-hour class. tools on how to research.
 - 2022-10-24: worked on visitor/resident map and on temporary notes (about the videos) to make them permanent.
 - 2022-10-18: 2-hour class. created github account and set up folders to take notes.
