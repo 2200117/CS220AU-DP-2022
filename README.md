@@ -1,4 +1,4 @@
-##Portfolio Overview
+## Portfolio Overview
 
 An [article](https://www.euronews.com/green/2020/04/22/sending-one-less-email-a-day-could-help-reduce-the-carbon-footprint-of-your-inbox) about how keeping a large amount of emails in your inbox could be detrimental to the environment peaked my interest a few years ago. I still had it in mind when we were asked to consider how digital identities and existential risks might be related for a uni class. I went on a deep dive to try to find this particular article again and I ended up finding numerous articles and papers on the subject of how our use of technology has an impact on climate change. It was the perfect starting point of my project. During weeks, I researched and started writing a text on the topic. In parallel, I looked for a way to connect one of the many definitions of existential risk to my subject. To get a better understanding of the concept, I followed the Visitor/Resident method suggested by David White and made a V&R map of my own. 
 
