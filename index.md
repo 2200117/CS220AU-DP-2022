@@ -59,6 +59,9 @@ You might be surprised to learn only one data centre runs on approximately the [
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEsTWKsaKWc?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
+<br>
+<br>
+<br>
 
 
 It is time to take a critical look at your digital behaviour and maybe make some changes to contribute to a sustainable future, instead of the slippery slope going solely downhill that is climate change. As Gary Cook, senior IT analyst at Greenpeace [says](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/), "[the Internet] is something if we build it the right way, with the right sources of energy, could really help power our transition to renewables. If we build it the wrong way, it could actually exacerbate the problem.” The worst case scenarios where the devastating changes to our climate slip out of our control "should be recognised as catastrophic", according to [epidemiologist Colin D. Butler](https://www.mdpi.com/1660-4601/15/10/2266#B11-ijerph-15-02266). This is why it becomes essential to consider how our own actions in regard to our digital identity, as individuals or as a society, are more or less linked to this existential risk.
