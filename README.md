@@ -15,6 +15,7 @@ An [article](https://www.euronews.com/green/2020/04/22/sending-one-less-email-a-
 I was then able to discuss the topic with my classmates which allowed me to consider different angles and improve my work. In the end, I created a website based mainly on text which aims to make readers take a critical look at their own use of technology. I hope it will inform them, encourage reflection and, ultimately, lead them to make changes. Climate change is very much a global issue and every individual and firm should take action, be it on a small scaler or on a much larger one. 
 
 
+<br>
 
 ## Log
 
